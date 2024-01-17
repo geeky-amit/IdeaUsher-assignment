@@ -1,0 +1,7 @@
+.header-container {
+  width: 100%;
+  height: 35vh;
+  background: url("../assets/cover-blog.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
